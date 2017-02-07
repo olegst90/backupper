@@ -1,0 +1,3 @@
+[submodule "edisk-client"]
+	path = edisk-client
+	url = https://github.com/olegst90/edisk-client.git
